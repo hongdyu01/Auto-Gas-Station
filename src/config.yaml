@@ -1,0 +1,18 @@
+customers:
+  - aruco_id: 1
+    car_type: "car"
+    oil_pose: "right"
+    fuel_type: "gasoline"
+    payment: "****-****-****-1234"
+
+  - aruco_id: 2
+    car_type: "taxi"
+    oil_pose: "right"
+    fuel_type: "diesel"
+    payment: "****-****-****-1234"
+
+  - aruco_id: 3
+    car_type: "benz"
+    oil_pose: "left"
+    fuel_type: "lpg"
+    payment: "****-****-****-1234"
